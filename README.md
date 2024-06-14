@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshTanwar](https://github.com/DivyanshTanwar)
 
-- 💻 Actively seeking opportunities in [Design and Verification.](Design and Verification.)
+- 💻 Actively seeking opportunities in **Design and Verification.**
 
 - 💬 Ask me about **System Verilog, Verilog, C/C++, Python, Verification Methods, Static Timing Analysis (STA), RTL Coding.**
 
 - 📫 How to reach me **divyansh.tanwar.ug20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kUoLXI1zyaMbt-HNkTW0b0KOqjP7ODZ_/view?usp=drive_link](https://drive.google.com/file/d/1kUoLXI1zyaMbt-HNkTW0b0KOqjP7ODZ_/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kUoLXI1zyaMbt-HNkTW0b0KOqjP7ODZ_/view?usp=drive_link" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
