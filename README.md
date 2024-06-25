@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **divyansh.tanwar.ug20@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kUoLXI1zyaMbt-HNkTW0b0KOqjP7ODZ_/view?usp=drive_link" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QWrLad4MHv9UDgHdpk9akPl61-PvyVSo/view?usp=drive_link" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
